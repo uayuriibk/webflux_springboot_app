@@ -1,4 +1,4 @@
-package com.yuriib.springboot.webflux_springboot_app;
+package com.yuriib.springboot.webflux_app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

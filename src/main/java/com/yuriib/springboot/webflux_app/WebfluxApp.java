@@ -1,4 +1,4 @@
-package com.yuriib.springboot.webflux_springboot_app;
+package com.yuriib.springboot.webflux_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
